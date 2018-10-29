@@ -3,9 +3,9 @@
 
 Number of Instances: 306
 Number of Attributes: 4 (including the class attribute)
-Attribute Information:
 
-1-Age of patient at time of operation (numerical) 
+<br/>Attribute Information:
+<br/>1-Age of patient at time of operation (numerical) 
 <br/>2-Patient's year of operation (year - 1900, numerical)
 <br/>3-Number of positive axillary nodes detected (numerical)
 <br/>4-Survival status (class attribute) 1 = the patient survived 5 years or longer 2 = the patient died within 5 years.
