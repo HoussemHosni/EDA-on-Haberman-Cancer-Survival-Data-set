@@ -6,8 +6,8 @@ Number of Attributes: 4 (including the class attribute)
 Attribute Information:
 
 1-Age of patient at time of operation (numerical) 
-2-Patient's year of operation (year - 1900, numerical)
-3-Number of positive axillary nodes detected (numerical)
-4-Survival status (class attribute) 1 = the patient survived 5 years or longer 2 = the patient died within 5 years.
+<br/>2-Patient's year of operation (year - 1900, numerical)
+<br/>3-Number of positive axillary nodes detected (numerical)
+<br/>4-Survival status (class attribute) 1 = the patient survived 5 years or longer 2 = the patient died within 5 years.
 
 <br/>Objective: conducting EDA and visualizing different variables dependencies. 
